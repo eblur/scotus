@@ -8,7 +8,7 @@
 
 import random
 
-INFILE  = 'responses.tsv'
+INFILE  = 'responses_printed.tsv'
 OUTFILE = 'signature_list.tex'
 
 class Signature(object):
